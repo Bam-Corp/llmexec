@@ -5,7 +5,7 @@ with open('README.md', 'r', encoding='utf-8') as fh:
 
 setup(
     name="llmexec",
-    version="0.1.0",
+    version="0.1.1",
     author="Bam Corp",
     author_email="spencer@bam.bot",
     description="Execute LLM-Generated Python Code Automatically",
